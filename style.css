@@ -1,0 +1,15 @@
+.line{
+    width: 400px;
+    height: 5px;
+    background-color: darkorange;
+}
+#apps{
+    height: 700px;
+    width: 100%;
+    background-color: cyan;
+}
+
+#mc {
+    background-color: chocolate;
+    padding-top: 50px;
+}
